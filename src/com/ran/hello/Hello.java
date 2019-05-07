@@ -18,7 +18,7 @@ public class Hello {
         System.out.println(date.toLocaleString());
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat();
         ArrayList<Object> objects = new ArrayList<>();
-
+        System.out.println();
 
     }
     
